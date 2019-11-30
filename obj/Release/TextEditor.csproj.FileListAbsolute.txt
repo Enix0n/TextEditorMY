@@ -1,0 +1,13 @@
+C:\Users\Dmitrii\Documents\GitHub\TextEditorMY\bin\Release\TextEditor.exe.config
+C:\Users\Dmitrii\Documents\GitHub\TextEditorMY\bin\Release\TextEditor.exe
+C:\Users\Dmitrii\Documents\GitHub\TextEditorMY\bin\Release\TextEditor.pdb
+C:\Users\Dmitrii\Documents\GitHub\TextEditorMY\obj\Release\TextEditor.csprojAssemblyReference.cache
+C:\Users\Dmitrii\Documents\GitHub\TextEditorMY\obj\Release\TextEditor.g.resources
+C:\Users\Dmitrii\Documents\GitHub\TextEditorMY\obj\Release\TextEditor.Form1.resources
+C:\Users\Dmitrii\Documents\GitHub\TextEditorMY\obj\Release\TextEditor.Password.resources
+C:\Users\Dmitrii\Documents\GitHub\TextEditorMY\obj\Release\TextEditor.Properties.FormL.resources
+C:\Users\Dmitrii\Documents\GitHub\TextEditorMY\obj\Release\TextEditor.Properties.Resources.resources
+C:\Users\Dmitrii\Documents\GitHub\TextEditorMY\obj\Release\TextEditor.csproj.GenerateResource.cache
+C:\Users\Dmitrii\Documents\GitHub\TextEditorMY\obj\Release\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrii\Documents\GitHub\TextEditorMY\obj\Release\TextEditor.exe
+C:\Users\Dmitrii\Documents\GitHub\TextEditorMY\obj\Release\TextEditor.pdb
